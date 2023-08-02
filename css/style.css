@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'CustomFont';
-    src: url('/Agung_Rizaldy/Assets/Raleway-Light.ttf') format('truetype');
+    src: url('/assets/Raleway-Light.ttf') format('truetype');
     }
 
 /*Media Query for Responsiveness*/
